@@ -1,0 +1,5 @@
+# RewriteEngine on
+# RewriteCond $1 !^(index\.php|images|rob# ots\.txt|css|js)
+# RewriteRule ^(.*)$ # index.php/$1 [L]
+
+RewriteEngine off

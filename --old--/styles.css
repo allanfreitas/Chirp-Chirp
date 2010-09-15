@@ -1,0 +1,8 @@
+body {
+	font-family: Verdana, Arial, 'sans-serif';
+	font-size: 62.5%;
+}
+
+.tweets {
+	list-style-type: none;
+}
