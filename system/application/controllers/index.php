@@ -7,6 +7,7 @@ class Index extends Controller {
 		// load helpers and libraries
 		$this->load->helper('url');
 		$this->load->library('twitter');
+		$this->load->library('chirpchirp');
     }
 
 	/**
