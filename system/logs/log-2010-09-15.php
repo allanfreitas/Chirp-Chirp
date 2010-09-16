@@ -949,3 +949,541 @@ DEBUG - 2010-09-15 16:47:23 --> Twitter class already loaded. Second attempt ign
 DEBUG - 2010-09-15 16:47:23 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
 DEBUG - 2010-09-15 16:47:23 --> Final output sent to browser
 DEBUG - 2010-09-15 16:47:23 --> Total execution time: 0.1427
+DEBUG - 2010-09-15 17:00:51 --> Config Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> URI Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:00:51 --> Router Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Output Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Input Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:00:51 --> Language Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:00:51 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:00:51 --> Session Class Initialized
+DEBUG - 2010-09-15 17:00:51 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:00:51 --> Session routines successfully run
+DEBUG - 2010-09-15 17:00:51 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:00:51 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:00:51 --> Final output sent to browser
+DEBUG - 2010-09-15 17:00:51 --> Total execution time: 0.1433
+DEBUG - 2010-09-15 17:00:58 --> Config Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> URI Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Router Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Output Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Input Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:00:58 --> Language Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Session Class Initialized
+DEBUG - 2010-09-15 17:00:58 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:00:58 --> Session routines successfully run
+DEBUG - 2010-09-15 17:00:58 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:00:58 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:00:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:00:58 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:00:58 --> Final output sent to browser
+DEBUG - 2010-09-15 17:00:58 --> Total execution time: 0.0143
+DEBUG - 2010-09-15 17:01:04 --> Config Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> URI Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:01:04 --> Router Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Output Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Input Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:01:04 --> Language Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:01:04 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:01:04 --> Session Class Initialized
+DEBUG - 2010-09-15 17:01:04 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:01:04 --> Session routines successfully run
+DEBUG - 2010-09-15 17:01:04 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:01:04 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:01:04 --> Final output sent to browser
+DEBUG - 2010-09-15 17:01:04 --> Total execution time: 0.1178
+DEBUG - 2010-09-15 17:01:20 --> Config Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> URI Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Router Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Output Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Input Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:01:20 --> Language Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Session Class Initialized
+DEBUG - 2010-09-15 17:01:20 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:01:20 --> Session routines successfully run
+DEBUG - 2010-09-15 17:01:20 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:01:20 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:01:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:01:20 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:01:20 --> Final output sent to browser
+DEBUG - 2010-09-15 17:01:20 --> Total execution time: 0.0144
+DEBUG - 2010-09-15 17:01:40 --> Config Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> URI Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:01:40 --> Router Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Output Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Input Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:01:40 --> Language Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:01:40 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:01:40 --> Session Class Initialized
+DEBUG - 2010-09-15 17:01:40 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:01:40 --> Session routines successfully run
+DEBUG - 2010-09-15 17:01:40 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:01:40 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:01:40 --> Final output sent to browser
+DEBUG - 2010-09-15 17:01:40 --> Total execution time: 0.1185
+DEBUG - 2010-09-15 17:02:09 --> Config Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> URI Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:02:09 --> Router Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Output Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Input Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:02:09 --> Language Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:02:09 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:02:09 --> Session Class Initialized
+DEBUG - 2010-09-15 17:02:09 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:02:09 --> Session routines successfully run
+DEBUG - 2010-09-15 17:02:09 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:02:09 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:02:09 --> Final output sent to browser
+DEBUG - 2010-09-15 17:02:09 --> Total execution time: 0.2298
+DEBUG - 2010-09-15 17:02:35 --> Config Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> URI Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:02:35 --> Router Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Output Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Input Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:02:35 --> Language Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:02:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:02:35 --> Session Class Initialized
+DEBUG - 2010-09-15 17:02:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:02:35 --> Session routines successfully run
+DEBUG - 2010-09-15 17:02:35 --> Twitter class already loaded. Second attempt ignored.
+ERROR - 2010-09-15 17:02:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/tara/public_html/chirpchirp/system/application/controllers/index.php:17) /home/tara/public_html/chirpchirp/system/application/controllers/index.php 19
+DEBUG - 2010-09-15 17:02:35 --> Final output sent to browser
+DEBUG - 2010-09-15 17:02:35 --> Total execution time: 0.0158
+DEBUG - 2010-09-15 17:05:48 --> Config Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> URI Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:05:48 --> Router Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Output Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Input Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:05:48 --> Language Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:05:48 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:05:48 --> Session Class Initialized
+DEBUG - 2010-09-15 17:05:48 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:05:48 --> Session routines successfully run
+DEBUG - 2010-09-15 17:05:48 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:05:48 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:05:48 --> Final output sent to browser
+DEBUG - 2010-09-15 17:05:48 --> Total execution time: 0.1160
+DEBUG - 2010-09-15 17:06:07 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:07 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:07 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:07 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:07 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:07 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:07 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:07 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:07 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:07 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:07 --> Total execution time: 0.1922
+DEBUG - 2010-09-15 17:06:08 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:08 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:08 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:08 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:08 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:08 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:08 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:08 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:08 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:08 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:08 --> Total execution time: 0.1208
+DEBUG - 2010-09-15 17:06:20 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:20 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:20 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:20 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:20 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:20 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:20 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:20 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:20 --> Total execution time: 0.1134
+DEBUG - 2010-09-15 17:06:20 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:20 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:20 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:20 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:20 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:20 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:20 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:21 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:21 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:21 --> Total execution time: 0.1400
+DEBUG - 2010-09-15 17:06:29 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:29 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:29 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:29 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:29 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:29 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:29 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:29 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:29 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:29 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:29 --> Total execution time: 0.1160
+DEBUG - 2010-09-15 17:06:30 --> Config Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> URI Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:06:30 --> Router Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Output Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Input Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:06:30 --> Language Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:06:30 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:06:30 --> Session Class Initialized
+DEBUG - 2010-09-15 17:06:30 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:06:30 --> Session routines successfully run
+DEBUG - 2010-09-15 17:06:30 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:06:30 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:06:30 --> Final output sent to browser
+DEBUG - 2010-09-15 17:06:30 --> Total execution time: 0.1397
+DEBUG - 2010-09-15 17:07:05 --> Config Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> URI Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:07:05 --> Router Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Output Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Input Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:07:05 --> Language Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:07:05 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:07:05 --> Session Class Initialized
+DEBUG - 2010-09-15 17:07:05 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:07:05 --> Session routines successfully run
+DEBUG - 2010-09-15 17:07:05 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:07:05 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:07:05 --> Final output sent to browser
+DEBUG - 2010-09-15 17:07:05 --> Total execution time: 0.1420
+DEBUG - 2010-09-15 17:07:06 --> Config Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> URI Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:07:06 --> Router Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Output Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Input Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:07:06 --> Language Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:07:06 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:07:06 --> Session Class Initialized
+DEBUG - 2010-09-15 17:07:06 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:07:06 --> Session routines successfully run
+DEBUG - 2010-09-15 17:07:06 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:07:06 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:07:06 --> Final output sent to browser
+DEBUG - 2010-09-15 17:07:06 --> Total execution time: 0.1176
+DEBUG - 2010-09-15 17:07:19 --> Config Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> URI Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:07:19 --> Router Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Output Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Input Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:07:19 --> Language Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:07:19 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:07:19 --> Session Class Initialized
+DEBUG - 2010-09-15 17:07:19 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:07:19 --> Session routines successfully run
+DEBUG - 2010-09-15 17:07:19 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:07:19 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:07:19 --> Final output sent to browser
+DEBUG - 2010-09-15 17:07:19 --> Total execution time: 0.1163
+DEBUG - 2010-09-15 17:07:35 --> Config Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> URI Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:07:35 --> Router Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Output Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Input Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:07:35 --> Language Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:07:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:07:35 --> Session Class Initialized
+DEBUG - 2010-09-15 17:07:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:07:35 --> Session routines successfully run
+DEBUG - 2010-09-15 17:07:35 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:07:35 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:07:35 --> Final output sent to browser
+DEBUG - 2010-09-15 17:07:35 --> Total execution time: 0.1413
+DEBUG - 2010-09-15 17:07:44 --> Config Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> URI Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:07:44 --> Router Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Output Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Input Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:07:44 --> Language Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:07:44 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:07:44 --> Session Class Initialized
+DEBUG - 2010-09-15 17:07:44 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:07:44 --> Session routines successfully run
+DEBUG - 2010-09-15 17:07:44 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:07:44 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:07:44 --> Final output sent to browser
+DEBUG - 2010-09-15 17:07:44 --> Total execution time: 0.2522
+DEBUG - 2010-09-15 17:08:03 --> Config Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> URI Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:08:03 --> Router Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Output Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Input Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:08:03 --> Language Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:08:03 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:08:03 --> Session Class Initialized
+DEBUG - 2010-09-15 17:08:03 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:08:03 --> Session routines successfully run
+DEBUG - 2010-09-15 17:08:03 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:08:03 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:08:03 --> Final output sent to browser
+DEBUG - 2010-09-15 17:08:03 --> Total execution time: 0.1436
+DEBUG - 2010-09-15 17:08:04 --> Config Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> URI Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:08:04 --> Router Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Output Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Input Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:08:04 --> Language Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:08:04 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:08:04 --> Session Class Initialized
+DEBUG - 2010-09-15 17:08:04 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:08:04 --> Session routines successfully run
+DEBUG - 2010-09-15 17:08:04 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:08:04 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:08:04 --> Final output sent to browser
+DEBUG - 2010-09-15 17:08:04 --> Total execution time: 0.1164
+DEBUG - 2010-09-15 17:08:16 --> Config Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> URI Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:08:16 --> Router Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Output Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Input Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:08:16 --> Language Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:08:16 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:08:16 --> Session Class Initialized
+DEBUG - 2010-09-15 17:08:16 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:08:16 --> Session routines successfully run
+DEBUG - 2010-09-15 17:08:16 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:08:16 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:08:16 --> Final output sent to browser
+DEBUG - 2010-09-15 17:08:16 --> Total execution time: 0.1406
+DEBUG - 2010-09-15 17:08:21 --> Config Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> URI Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:08:21 --> Router Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Output Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Input Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:08:21 --> Language Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:08:21 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:08:21 --> Session Class Initialized
+DEBUG - 2010-09-15 17:08:21 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:08:21 --> Session routines successfully run
+DEBUG - 2010-09-15 17:08:21 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:08:21 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:08:21 --> Final output sent to browser
+DEBUG - 2010-09-15 17:08:21 --> Total execution time: 0.1265
+DEBUG - 2010-09-15 17:09:15 --> Config Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> URI Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:09:15 --> Router Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Output Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Input Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:09:15 --> Language Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:09:15 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:09:15 --> Session Class Initialized
+DEBUG - 2010-09-15 17:09:15 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:09:15 --> Session routines successfully run
+DEBUG - 2010-09-15 17:09:15 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:16 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:09:16 --> Final output sent to browser
+DEBUG - 2010-09-15 17:09:16 --> Total execution time: 0.4974
+DEBUG - 2010-09-15 17:09:16 --> Config Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> URI Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Router Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Output Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Input Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:09:16 --> Language Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Session Class Initialized
+DEBUG - 2010-09-15 17:09:16 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:09:16 --> Session routines successfully run
+DEBUG - 2010-09-15 17:09:16 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:09:16 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:09:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:16 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:16 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/timeline.php
+DEBUG - 2010-09-15 17:09:16 --> Final output sent to browser
+DEBUG - 2010-09-15 17:09:16 --> Total execution time: 0.2752
+DEBUG - 2010-09-15 17:09:22 --> Config Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> URI Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> No URI present. Default controller set.
+DEBUG - 2010-09-15 17:09:22 --> Router Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Output Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Input Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:09:22 --> Language Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:09:22 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:09:22 --> Session Class Initialized
+DEBUG - 2010-09-15 17:09:22 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:09:22 --> Session routines successfully run
+DEBUG - 2010-09-15 17:09:22 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:23 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/index.php
+DEBUG - 2010-09-15 17:09:23 --> Final output sent to browser
+DEBUG - 2010-09-15 17:09:23 --> Total execution time: 0.1884
+DEBUG - 2010-09-15 17:09:23 --> Config Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Hooks Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> URI Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Router Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Output Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Input Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-15 17:09:23 --> Language Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Loader Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Controller Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Session Class Initialized
+DEBUG - 2010-09-15 17:09:23 --> Helper loaded: string_helper
+DEBUG - 2010-09-15 17:09:23 --> Session routines successfully run
+DEBUG - 2010-09-15 17:09:23 --> Helper loaded: url_helper
+DEBUG - 2010-09-15 17:09:23 --> Helper loaded: form_helper
+DEBUG - 2010-09-15 17:09:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:23 --> Twitter class already loaded. Second attempt ignored.
+DEBUG - 2010-09-15 17:09:23 --> File loaded: /home/tara/public_html/chirpchirp/system/application/views/timeline.php
+DEBUG - 2010-09-15 17:09:23 --> Final output sent to browser
+DEBUG - 2010-09-15 17:09:23 --> Total execution time: 0.2624

@@ -14,7 +14,6 @@ class Index extends Controller {
 	* Not logged in; show latest trends list.
 	*/
 	function index() {
-
 		$trends = $this->twitter->search('trends');
 
 		$data = array(

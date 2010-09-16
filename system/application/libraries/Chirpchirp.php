@@ -18,7 +18,13 @@ class Chirpchirp {
 		$this->tokens['access_token_secret'] = NULL;
 
 		$this->has_access = FALSE;
+		$this->check_for_access();
+		//echo $this->has_access;
 		
+		$this->uri_string = uri_string();
+		if ((uri_string() == '') && $this->has_access) {
+			header('Location: ' . site_url('user/timeline'));
+		}
 		if (strrpos(uri_string(), 'user')) {
 			$this->oauth = $this->init_oauth();
 		}
@@ -35,7 +41,6 @@ class Chirpchirp {
 	* Get access token and access token secret from session, if they're there.
 	*/
 	function init_oauth() {
-		$this->check_for_access();
 		if ($this->has_access === TRUE) {
 			$this->tokens['access_token'] = $this->CI->session->userdata('access_token');
 			$this->tokens['access_token_secret'] = $this->CI->session->userdata('access_token_secret');			
